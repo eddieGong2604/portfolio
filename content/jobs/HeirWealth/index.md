@@ -3,7 +3,7 @@ date: '2024-03-01'
 title: 'Senior Full-stack Developer'
 company: 'HeirWealth'
 location: 'Greater Sydney Area, Australia'
-range: 'October 2020 - July 2023'
+range: 'October 2020 - March 2024'
 url: 'https://heirwealth.com/'
 ---
 

@@ -3,7 +3,7 @@ date: '2024-02-01'
 title: 'Senior Full-stack Developer'
 company: 'Digital Brandz'
 location: 'Atlanta, USA'
-range: 'January 2020 - October 2020'
+range: 'March 2024 - June 2024'
 url: 'https://www.digitalbrandz.com/'
 ---
 

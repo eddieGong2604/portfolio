@@ -3,7 +3,7 @@ date: '2019-03-06'
 title: 'Oncology App Developer'
 company: 'UOW'
 location: 'Wollongong, Australia'
-range: 'July 2019 - January 2020'
+range: 'July 2021 - July 2022'
 url: 'https://onkodicom.com.au/'
 ---
 
