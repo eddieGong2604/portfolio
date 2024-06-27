@@ -4,23 +4,11 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/eddyGong2604',
-    },
-    {
-      name: 'Instagram',
-      url: '#',
-    },
-    {
-      name: 'Twitter',
-      url: '#',
+      url: 'https://github.com/eddieGong2604',
     },
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/eddyle2604',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/',
     },
   ],
 

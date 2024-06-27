@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Eddy Le',
+    title: 'Eddy Le - Full-stack & AI Developer',
     description:
       'Eddy Le is a techie guy who has been supporting Sydney startup community realize their dream ideas',
     siteUrl: 'https://eddyle.com', // No trailing slash allowed!

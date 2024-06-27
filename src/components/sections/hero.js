@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m an independent contractor that provides expertise in full-stack development, cloud computing, enterprise application architecture, AI integration.
+        Tech companies reached out to me for my expertise in full-stack development, cloud computing, enterprise application architecture, AI integration.
         {' '}
         <a href="#" rel="noreferrer">
           Based in Sydney, Australia
