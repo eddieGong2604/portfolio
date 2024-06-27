@@ -1,7 +1,7 @@
 ---
 date: '2024-06-01'
 title: 'Senior Consultant'
-company: 'AI Home Search'
+company: 'AI Home'
 location: 'Brisbane, Australia'
 range: 'March 2024 - June 2024'
 url: 'https://www.aihomesearch.com.au/'

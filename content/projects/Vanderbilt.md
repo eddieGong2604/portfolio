@@ -7,6 +7,6 @@ tech:
   - Twig
   - Puppy
   - JS
-company: 'AI Home Search'
+company: 'AI Home'
 showInProjects: false
 ---

@@ -11,6 +11,6 @@ tech:
   - JS
   - Mailchimp
   - AMP
-company: 'AI Home Search'
+company: 'AI Home'
 showInProjects: false
 ---

@@ -7,6 +7,6 @@ tech:
   - React
   - TypeScript
   - Stats Perform API
-company: 'AI Home Search'
+company: 'AI Home'
 showInProjects: false
 ---

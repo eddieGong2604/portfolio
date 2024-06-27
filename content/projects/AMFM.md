@@ -1,13 +1,13 @@
 ---
 date: '2017-11-01'
-title: 'Morpheus Wealth Music Facebook Messenger Integration'
+title: 'HeirWealth Music Facebook Messenger Integration'
 github: ''
 external: 'https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming'
 tech:
   - Ember
   - JS
   - SCSS
-company: 'Morpheus Wealth'
+company: 'HeirWealth'
 showInProjects: true
 ---
 

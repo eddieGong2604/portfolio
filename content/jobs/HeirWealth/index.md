@@ -1,7 +1,7 @@
 ---
 date: '2024-03-01'
 title: 'Senior Full-stack Developer'
-company: 'Morpheus Wealth'
+company: 'HeirWealth'
 location: 'Greater Sydney Area, Australia'
 range: 'October 2020 - July 2023'
 url: 'https://heirwealth.com/'

@@ -10,6 +10,6 @@ tech:
   - PHP
   - Algolia
   - JS
-company: 'AI Home Search'
+company: 'AI Home'
 showInProjects: false
 ---

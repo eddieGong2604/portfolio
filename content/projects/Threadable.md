@@ -8,6 +8,6 @@ tech:
   - React Native
   - Ruby on Rails
   - Firebase
-company: 'AI Home Search'
+company: 'AI Home'
 showInProjects: false
 ---

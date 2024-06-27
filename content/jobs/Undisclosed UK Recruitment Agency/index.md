@@ -1,7 +1,7 @@
 ---
 date: '2024-03-06'
 title: 'Senior Full-stack Developer'
-company: 'Undisclosed UK Recruitment Agency'
+company: 'Dynamics Recruit'
 location: 'United Kingdom'
 range: 'July 2023 - March 2024'
 url: '#'

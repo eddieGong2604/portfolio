@@ -8,6 +8,6 @@ tech:
   - Timber
   - PHP
   - Airtable API
-company: 'AI Home Search'
+company: 'AI Home'
 showInProjects: false
 ---

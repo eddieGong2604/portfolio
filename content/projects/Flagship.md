@@ -6,7 +6,7 @@ external: 'https://www.flagshippioneering.com/'
 tech:
   - Craft CMS
   - Chart.js
-company: 'AI Home Search'
+company: 'AI Home'
 showInProjects: false
 ---
 

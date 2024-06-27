@@ -1,13 +1,13 @@
 ---
 date: '2017-12-01'
-title: 'Morpheus Wealth Music Embeddable Web Player Widget'
+title: 'HeirWealth Music Embeddable Web Player Widget'
 github: ''
 external: 'https://tools.applemusic.com/en-us'
 tech:
   - MusicKit.js
   - JS
   - SCSS
-company: 'Morpheus Wealth'
+company: 'HeirWealth'
 showInProjects: true
 ---
 

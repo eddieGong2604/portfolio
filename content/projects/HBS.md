@@ -7,6 +7,6 @@ tech:
   - Storybook
   - React
   - TypeScript
-company: 'AI Home Search'
+company: 'AI Home'
 showInProjects: false
 ---

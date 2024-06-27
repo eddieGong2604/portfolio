@@ -13,6 +13,6 @@ tech:
   - Formik
   - Yup
   - Vercel
-company: 'AI Home Search'
+company: 'AI Home'
 showInProjects: false
 ---

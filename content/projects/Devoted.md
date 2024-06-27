@@ -7,7 +7,7 @@ tech:
   - Gatsby
   - TypeScript
   - Algolia
-company: 'AI Home Search'
+company: 'AI Home'
 showInProjects: false
 ---
 

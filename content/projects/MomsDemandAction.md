@@ -9,6 +9,6 @@ tech:
   - NativeScript Vue
   - iOS
   - Android
-company: 'AI Home Search'
+company: 'AI Home'
 showInProjects: false
 ---

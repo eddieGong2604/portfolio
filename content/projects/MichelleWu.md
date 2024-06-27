@@ -6,6 +6,6 @@ external: 'https://toolkit.michelleforboston.com/'
 tech:
   - Gatsby
   - Styled Components
-company: 'AI Home Search'
+company: 'AI Home'
 showInProjects: false
 ---

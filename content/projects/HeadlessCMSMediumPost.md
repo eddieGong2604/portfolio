@@ -8,7 +8,7 @@ tech:
   - Express
   - Firebase
   - Vue
-company: 'AI Home Search'
+company: 'AI Home'
 showInProjects: true
 ---
 

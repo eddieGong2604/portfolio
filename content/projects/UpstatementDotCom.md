@@ -1,12 +1,12 @@
 ---
 date: '2019-11-25'
-title: 'AI Home Search.com'
+title: 'AI Home.com'
 github: ''
 external: 'https://www.upstatement.com/'
 tech:
   - Nuxt
   - Vue
   - Prismic
-company: 'AI Home Search'
+company: 'AI Home'
 showInProjects: false
 ---

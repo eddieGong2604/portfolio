@@ -7,7 +7,7 @@ tech:
   - Algolia
   - WordPress
   - PHP
-company: 'AI Home Search'
+company: 'AI Home'
 showInProjects: true
 ---
 
