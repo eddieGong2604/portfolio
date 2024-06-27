@@ -7,7 +7,7 @@ tech:
   - WordPress
   - Timber
   - WooCommerce
-company: 'Scout'
+company: 'Undisclosed UK Recruitment Agency'
 showInProjects: false
 ---
 

@@ -77,10 +77,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.linkedin.com/in/eddyle2604/"
+      href="https://www.upwork.com/freelancers/~015ddc51194f12bf39"
       target="_blank"
       rel="noreferrer">
-      Check out my Linkedin
+      Check out my Upwork
     </a>
   );
 

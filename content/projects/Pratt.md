@@ -9,6 +9,6 @@ tech:
   - WordPress Multisite
   - Gutenberg
   - JS
-company: 'Upstatement'
+company: 'AI Home Search'
 showInProjects: false
 ---

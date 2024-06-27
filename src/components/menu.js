@@ -266,8 +266,8 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="/resume.pdf" className="resume-link">
-              Resume
+            <a href="https://calendly.com/me-eddyle/30min" target='_blank' className="resume-link">
+              Free Consultation
             </a>
           </nav>
         </StyledSidebar>

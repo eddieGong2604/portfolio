@@ -7,7 +7,7 @@ tech:
   - Algolia
   - WordPress
   - PHP
-company: 'Upstatement'
+company: 'AI Home Search'
 showInProjects: true
 ---
 

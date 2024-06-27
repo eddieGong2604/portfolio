@@ -8,7 +8,7 @@ tech:
   - Express
   - Firebase
   - Vue
-company: 'Upstatement'
+company: 'AI Home Search'
 showInProjects: true
 ---
 

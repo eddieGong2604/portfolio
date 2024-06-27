@@ -7,6 +7,6 @@ tech:
   - Twig
   - Puppy
   - JS
-company: 'Upstatement'
+company: 'AI Home Search'
 showInProjects: false
 ---

@@ -9,6 +9,6 @@ tech:
   - NativeScript Vue
   - iOS
   - Android
-company: 'Upstatement'
+company: 'AI Home Search'
 showInProjects: false
 ---
