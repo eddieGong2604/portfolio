@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Eddy Le - Full-stack & AI Developer',
     description:
-      'Eddy Le is a techie guy who has been supporting Sydney startup community realize their dream ideas',
+      'Eddy Le is a techie who has been supporting Sydney startup community realize their dream ideas',
     siteUrl: 'https://eddyle.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@eddyle',
