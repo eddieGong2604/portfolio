@@ -61,16 +61,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Eddy Le.</h2>;
-  const three = <h3 className="big-heading">I help organisations fix bugs & build wow factors.</h3>;
+  const three = <h3 className="big-heading">I help <a href={'#'}>AU & UK</a> organisations fix bugs & build wow factors.</h3>;
   const four = (
     <>
       <p>
         Tech companies reached out to me for my expertise in full-stack development, cloud computing, enterprise application architecture, AI integration.
-        {' '}
-        <a href="#" rel="noreferrer">
-          Based in Sydney, Australia
-        </a>
-        .
+        {' '}.
       </p>
     </>
   );
