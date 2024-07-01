@@ -66,7 +66,6 @@ const Hero = () => {
     <>
       <p>
         Tech companies reached out to me for my expertise in full-stack development, cloud computing, enterprise application architecture, AI integration.
-        {' '}.
       </p>
     </>
   );
