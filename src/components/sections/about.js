@@ -137,16 +137,14 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              We started out as a small group of innovators at uni 6 years ago.
+              We started as a group of uni high-achievers
             </p>
             <p>
-              We fight together in group projects.
+              We fought together from group assignments to commercial experiences
             </p>
             <p>
-              We were high-achievers at the end of uni with Eddy being the Valedictorian (GPA 4.0/4.0)
-            </p>
-            <p>
-              Now, we are on the mission of extending our capabilities in <a href={'#'}>programming, infrastructure, and AI</a> to as many entrepreneurs as possible and help <a href={'#'}>realize their ideas of dream</a>.
+              Now, we are on the mission of extending our capabilities in <a href={'#'}>programming, infrastructure, and
+              AI</a> to help entrepreneurs <a href={'#'}>realize their ideas of dream</a>
             </p>
 
             <p>We work on the below technologies:</p>
