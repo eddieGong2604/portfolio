@@ -126,9 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'NestJs', 'Node.js', 'AWS',
-    'Java', 'Spring Boot', 'C#', '.NET', 'Python', 'OpenAI', 'Django', 'Azure', 'Google Cloud', 'MongoDB',
-    'PostgreSQL', 'MySQL', 'Git', 'ElasticSearch', 'Docker', 'Kubernetes', 'Playwright', 'Selenium', 'Scapy'
+  const skills = ['Full-stack Development', 'AI Development', 'DevOps & Cloud', 'Mobile Development', 'UI UX Design', 'Data Scraping',
   ];
 
   return (

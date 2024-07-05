@@ -75,7 +75,7 @@ const Hero = () => {
       href="https://www.upwork.com/freelancers/~015ddc51194f12bf39"
       target="_blank"
       rel="noreferrer">
-      Check out my Upwork
+      Check out our Upwork
     </a>
   );
 
