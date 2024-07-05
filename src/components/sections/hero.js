@@ -60,7 +60,7 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, we are</h1>;
-  const two = <h2 className="big-heading">Eddy Le & Friends.</h2>;
+  const two = <h2 className="big-heading">Eddy & Friends.</h2>;
   const three = <h3 className="big-heading">We help <a href={'#'}>AU & UK</a> startups fix bugs & build wow factors.</h3>;
   const four = (
     <>
