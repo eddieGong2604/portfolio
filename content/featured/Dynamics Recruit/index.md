@@ -12,4 +12,4 @@ tech:
   - PostgreSQL
 ---
 
-I've worked with a recruitment agent in UK to craft an ideal platform would offer a unified solution, streamlining the recruitment process
+We've worked with a recruitment agent in UK to craft an ideal platform would offer a unified solution, streamlining the recruitment process
