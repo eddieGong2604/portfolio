@@ -148,7 +148,7 @@ const About = () => {
               We were high-achievers at the end of uni with Eddy being the Valedictorian (GPA 4.0/4.0)
             </p>
             <p>
-              Now, we are on the mission of extending our capabilities in <a href={'#'}>programming, infrastructure, and AI</a> to as many organisations as possible to help <a href={'#'}>realize their ideas of dream</a>.
+              Now, we are on the mission of extending our capabilities in <a href={'#'}>programming, infrastructure, and AI</a> to as many entrepreneurs as possible and help <a href={'#'}>realize their ideas of dream</a>.
             </p>
 
             <p>We work on the below technologies:</p>
