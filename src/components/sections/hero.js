@@ -59,13 +59,13 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Eddy Le.</h2>;
-  const three = <h3 className="big-heading">I help <a href={'#'}>AU & UK</a> organisations fix bugs & build wow factors.</h3>;
+  const one = <h1>Hi, we are</h1>;
+  const two = <h2 className="big-heading">Eddy Le & Friends.</h2>;
+  const three = <h3 className="big-heading">We help <a href={'#'}>AU & UK</a> organisations fix bugs & build wow factors.</h3>;
   const four = (
     <>
       <p>
-        Tech companies reached out to me for my expertise in full-stack development, cloud computing, enterprise application architecture, AI integration.
+        Tech companies reached out to us for our expertise in full-stack development, cloud computing, enterprise application architecture, AI integration.
       </p>
     </>
   );

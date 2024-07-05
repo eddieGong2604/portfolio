@@ -133,17 +133,25 @@ const About = () => {
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">About Me</h2>
+      <h2 className="numbered-heading">About Eddy Le & Friends</h2>
 
       <div className="inner">
         <StyledText>
           <div>
             <p>
-              Since the start of my career with the <a href="#">Valedictorian (GPA 4.0/4.0)</a> testamur, I have always been wondering how I can extend my capabilities with <a href={'#'}>programming, infrastructure, and AI</a> to as many organisations as possible to help <a href={'#'}>realize their ideas of dream</a>.
-
+              We started out as a small group of innovators at uni 6 years ago.
+            </p>
+            <p>
+              We fight together in group projects.
+            </p>
+            <p>
+              We were high-achievers at the end of uni with Eddy being the Valedictorian (GPA 4.0/4.0)
+            </p>
+            <p>
+              Now, we are on the mission of extending our capabilities in <a href={'#'}>programming, infrastructure, and AI</a> to as many organisations as possible to help <a href={'#'}>realize their ideas of dream</a>.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>We work on the below technologies:</p>
           </div>
 
           <ul className="skills-list">
