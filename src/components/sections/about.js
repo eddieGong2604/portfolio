@@ -131,7 +131,7 @@ const About = () => {
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">About Eddy Le & Friends</h2>
+      <h2 className="numbered-heading">About Eddy & Friends</h2>
 
       <div className="inner">
         <StyledText>
