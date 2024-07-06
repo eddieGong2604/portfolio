@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        We're giving away <a href={'#'}>free consultation </a> that we're working on. Schedule a meeting with us to grab these freebies.
+        <a href={'#'}>Consultation is free, as always </a>. Schedule a meeting with us to grab these freebies.
       </p>
 
       <a className="email-link" href={'https://calendly.com/me-eddyle/30min'}>
